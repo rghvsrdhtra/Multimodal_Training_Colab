@@ -1,4 +1,4 @@
-# 🍲 Multimodal Food Classification (Image + Text)
+# 🧠 Multimodal Classification Template (Image + Text)
 
 A deep learning project demonstrating multimodal (image and text) classification using TensorFlow/Keras, specifically designed for execution in a **Google Colab environment** with persistent storage via **Google Drive**.
 
